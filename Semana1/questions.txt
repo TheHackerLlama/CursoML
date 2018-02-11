@@ -1,0 +1,53 @@
+Responde las siguientes preguntas brevemente. No te preocupes si no sabes la respuesta a todas, intenta revisar las presentaciones o buscar en Internet. Son muchos conceptos diferentes, enfócate en entenderlos de manera general. Anota tus respuestas para poder hablarlo la próxima clase.
+
+1. ¿Cuáles son 3 aplicaciones de Machine Learning en economía que se te ocurran?
+
+2. ¿Qué ventajas y desventajas se te ocurren de ML?
+
+3. ¿Qué es Aprendizaje Supervisado, no Supervisado y Por Refuerzo?
+
+4. ¿Qué es un dataset?
+
+5. ¿Qué es un problema de clasificación? Da un ejemplo en economía
+
+6. ¿Qué es un problema de regresión? Da un ejemplo en economía
+
+7. ¿Cómo funciona un árbol de decisiones?
+
+8. ¿Cómo funciona Naive Bayes?
+
+9. ¿Cuál es la diferencia entre Regresión Lineal y Logística?
+
+10. ¿Qué es un Support Vector Machine?
+
+11. ¿Qué es una red neuronal?
+
+12. ¿Cuál es la diferencia entre K-means Clustering y Hierarchical Clustering?
+
+13. Propón un nuevo problema de regresión que no haya sido mencionado en clase.
+
+13. ¿Qué es un feature? ¿Qué features aplican en tu problema?
+
+14. ¿Qué es un training y un testing set? ¿Para qué sirve cada uno?
+
+15. ¿Qué es un modelo?
+
+16. ¿Por qué la regresión linear es un método paramétrico?
+
+17. ¿Por qué regresión linear es un método de optimización?
+
+18. ¿Qué es una Loss Function? Busca otras funciones de error que no sea Mean Squared Error.
+
+19. ¿Qué es Gradient Descent?
+
+20. ¿Qué problemas tiene Gradient Descent?
+
+21. ¿Qué es el learning rate? 
+
+22. ¿Cómo impacta el learning rate en el algoritmo de Gradient Descent?
+
+23. ¿Qué es overfitting? ¿Qué es underfitting?
+
+24. ¿Cuál es el objetivo de regularization?
+
+25. ¿Qué es bias y variance?
