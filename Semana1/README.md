@@ -11,7 +11,7 @@ Este semana vimos varios temas:
 
 Entre hoy y para la próxima semana, completa los siguientes ejercicios para que puedas estar preparado para trabajar.
 
-1. **Git y Github** 
+1. **Git y Github (~30 minutos)** 
 
 Git es una herramienta que permite subir código y otros recursos. Velo como un Dropbox para programadores. Git tiene muchas ventajas que permite tener control de versiones y trabajo colaborativo con facilidad. Aunque no deben saber mucho de Git, si es necesario que lo tengan para que puedan correr el cdigo.
 
@@ -22,13 +22,13 @@ Antes de iniciar, asegúrate de saber cómo crear carpetas y archivos, y moverte
 1.2 Instala Git en tu computadora. https://gist.github.com/derhuerst/1b15ff4652a867391f03
 
 
-2. **Python**
+2. **Python (~2 horas)**
 
 Aunque tener los conceptos es muy importante, es necesario que podamos aplicarlos a la vida real. Para esto, vamos a utilizar Python. Python es un lenguaje de programación extremadamente amigable que ha sido muy adoptado por la comunidad de Machine Learning y de Data Science. Python tiene libreras que permiten, con gran facilidad, manipular muchos datos.
 
 Completa hasta la lección 9 del siguiente tutorial: codecademy.com/learn/learn-python
 
-3. **Configuración**
+3. **Configuración y Exploración de Dataset(~1 hora)**
 
 La instalación y configuración puede ser un poco tediosa, pero, si se hace bien, servirá para siempre. Anaconda es una herramienta que permite manejar ambientes de manera flexible y modular. Python tiene dos versiones diferentes del lenguaje y muchas libreras tienen diferencias. Esto puede hace difícil que tu código funcione en otras computadoras. Anaconda hace fácil esto creando un ambiente en tu computadora y usando versiones especficas de estos paquetes. Lo único que se necesita saber para lograr esto es utilizar la terminal de tu sistema operativo (sólo vamos a correr unos cuántos comandos, nada complicado).
 
@@ -66,7 +66,7 @@ git clone https://github.com/TheHackerLlama/CursoML.git
 
 Una vez hecho esto, podrás abrir el archivo que termina con .ipynb. Cuando lo hagas, sigue las instrucciones para asegurarse que todo este bien instalado.
 
-4. **Repasar temas**
+4. **Repasar temas (~35 minutos)**
 
 - Lee el captulo 3.1 (y la introducción al capítulo) del siguiente libro gratuito: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf. Este cubre Regresión Lineal de una manera más rigurosa matemáticamente hablando.
 - Responde las pregunta que están en el archivo questions.txt.
