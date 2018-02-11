@@ -13,6 +13,10 @@ Entre hoy y para la próxima semana, completa los siguientes ejercicios para que
 
 1. **Git y Github** 
 Git es una herramienta que permite subir código y otros recursos. Velo como un Dropbox para programadores. Git tiene muchas ventajas que permite tener control de versiones y trabajo colaborativo con facilidad. Aunque no deben saber mucho de Git, si es necesario que lo tengan para que puedan correr el cdigo.
+
+Antes de iniciar, asegúrate de saber cómo crear carpetas y archivos, y moverte a través de ellos con la consola de tu sistema operativo. https://www.codecademy.com/learn/learn-the-command-line. En Windows usa PowerShell si lo tienes instalado.
+
+
 1.1. Empieza haciendo el siguiente tutorial de Git en 15 minutos. Completa hasta la lección 12. https://try.github.io/levels/1/challenges/1
 1.2 Instala Git en tu computadora. https://gist.github.com/derhuerst/1b15ff4652a867391f03
 
@@ -56,6 +60,8 @@ git clone https://github.com/TheHackerLlama/CursoML.git
 2. Luego, con la consola, anda a la carpeta. 
 3. Una vez en la carpeta, ejecuta ```jupyter notebook```
 4. Esto te dar un enlace que puedes copiar y abrir en tu navegador.
+
+Una vez hecho esto, podrás abrir el archivo que termina con .ipynb. Cuando lo hagas, sigue las instrucciones para asegurarse que todo est bien instalado.
 
 4. **Repasar temas**
 Responde las pregunta que están en el archivo questions.txt.
