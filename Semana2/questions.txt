@@ -1,0 +1,41 @@
+Responde las siguientes preguntas brevemente. No te preocupes si no sabes la respuesta a todas, intenta revisar las presentaciones o buscar en Internet. Son muchos conceptos diferentes, enfócate en entenderlos de manera general. Anota tus respuestas para poder hablarlo la próxima clase.
+
+1. ¿Cuál es la diferencia entre un vector y una matriz?
+
+2. ¿Cómo se multiplica una matriz por otra matriz?
+
+3. ¿Qué propiedades tiene la multiplicación de matrices?
+
+4. ¿Cómo se calcula la transpuesta con NumPy? ¿Y cómo se multiplican matrices?
+
+5. ¿Qué es MSE?
+
+6. ¿Qué es n y qué es m en un dataset?
+
+7. ¿Qué propiedad de matrices facilita el cálculo de la hipótesis?
+
+8. ¿Qué debemos agregar a X para que funcione Gradient Descent? (en la primera columna)
+
+9. ¿Qué es feature scaling?
+
+10. ¿Qué es mean normalization?
+
+11. ¿Qué es el learning rate y cómo se elige?
+
+12. ¿Qué pasa si el learning rate es muy pequeño?
+
+13. ¿Cómo se puede hacer regresión polinomial?
+
+14. ¿Cómo se calculan los parámetros analíticamente?
+
+15. ¿En qué casos no usarías un modelo de regresión linear?
+
+16. ¿Da tres ejemplos de clasificación en economía?
+
+17. ¿Qué similitudes y diferencias ves entre regresión linear y clasificación?
+
+18. Busca cómo funciona K-nearest neighbors para clasifiación de manera breve. Explica en dos o tres oraciones cómo funciona.
+
+19. ¿Qué es overfitting?
+
+20. ¿Para qué sirve regularization?
