@@ -4,6 +4,8 @@ Este semana vimos varios temas:
 - Naive Bayes
 - Support Vector Machines
 - Decision Trees y Random Forests
+- k-NN
+- Redes Neuronales
 
 
 En las próximas semanas, completa los siguientes ejercicios para aprender mejor del tema. Antes de empezar, lee todos los puntos
@@ -39,6 +41,7 @@ El objetivo es que ustedes pongan notas de todas las técnicas que hemos visto h
 - Random Forests
 - Support Vector Machines
 - Naive Bayes
+- k-NN
 
 Explica cosas como
 * Sus usos: cuándo usar cada modelo, sus fortalezas, qué tipo de problema resuelve, etc.
